@@ -3,7 +3,7 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-sudo apt-get install openssh-client
+sudo apt-get install openssh-server
 
 sudo systemctl enable ssh
 
